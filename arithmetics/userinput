@@ -1,0 +1,4 @@
+How to read user input
+Sometimes you'll need to gather user input and perform relevant operations.
+
+In bash, we can take user input using the read command.
