@@ -1,0 +1,7 @@
++ addition
+- subtraction
+* multiply
+/ division
+** exponentiation
+% modulus
+echo "scale=2;22/7" | bc # for decimal numbers
